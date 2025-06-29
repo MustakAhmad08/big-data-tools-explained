@@ -104,10 +104,6 @@ Dask is a newer tool born in the Python data science world. If you know Pandas o
 - **Spark** is a fast, flexible data engine, great for real-time and machine learning.  
 - **Dask** is the friendly Python-native tool, perfect if you already know Pandas but need to scale up.
 
-In short:  
-✅ *Hadoop* → store & process huge data reliably  
-✅ *Spark* → process huge data *fast*  
-✅ *Dask* → scale Python workflows easily
 
 ---
 
